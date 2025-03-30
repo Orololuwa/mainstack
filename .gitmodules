@@ -1,0 +1,6 @@
+[submodule "mainstack-app"]
+	path = mainstack-app
+	url = https://github.com/Orololuwa/mainstack-app
+[submodule "mainstack-library"]
+	path = mainstack-library
+	url = https://github.com/Orololuwa/mainstack-library
